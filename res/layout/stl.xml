@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/stlLayout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="horizontal"
+    android:background="@drawable/background"
+    >
+
+    <fragment
+        android:id="@+id/stlleftfragment"
+        android:name="com.vezeau.alex.stl.FragmentLeftSTL"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" 
+        android:layout_weight="1">
+        <!-- Preview: layout=@layout/stlleftfragment -->
+    </fragment>
+
+    <fragment
+        android:id="@+id/stlrightfragment"
+        android:name="com.vezeau.alex.stl.FragmentRightSTL"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" 
+        android:layout_weight="0.25">
+        <!-- Preview: layout=@layout/stlrightfragment -->
+    </fragment>
+
+</LinearLayout>

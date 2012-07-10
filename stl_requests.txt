@@ -1,0 +1,24 @@
+Route List
+http://webservices.nextbus.com/service/publicXMLFeed?command=routeList&a=stl
+
+Route Config
+http://webservices.nextbus.com/service/publicXMLFeed?command=routeConfig&a=stl&r=26O
+
+Predictions
+http://webservices.nextbus.com/service/publicXMLFeed?command=predictions&a=stl&stopId=46473
+
+http://webservices.nextbus.com/service/publicXMLFeed?command=predictions&a=stl&stopId=46473&routeTag=46473
+
+Multi Predictions
+http://webservices.nextbus.com/service/publicXMLFeed?command=predictionsForMultiStops&a=stl&stops=56E|46473&stops=56E|43152
+
+Schedule
+http://webservices.nextbus.com/service/publicXMLFeed?command=schedule&a=stl&r=56E
+
+Messages
+http://webservices.nextbus.com/service/xmlFeed?command=messages&a=stl&r=56E&r=56O
+
+Vehicle Location
+http://webservices.nextbus.com/service/publicXMLFeed?command=vehicleLocations&a=stl&r=56E&t=0
+
+http://webservices.nextbus.com/service/publicXMLFeed?command=vehicleLocations&a=stl&t=0

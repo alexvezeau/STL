@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Bienvenue à l\'application STL</string>
+    <string name="app_name">STL</string>
+    <string name="image_of_a_lock">Image of a lock</string>
+    <string name="button">Button</string>
+    <string name="terminate">Terminate</string>
+    <string name="call_intent">Call Intent</string>
+    <string name="go_to_web">Go to web</string>
+    <string name="previous">previous</string>
+    <string name="change_locale">Change Locale</string>
+    <string name="display_db_data">Display DataBase Data</string>
+    <string name="db_actions">"Database Actions "</string>
+    <string name="name">Name:</string>
+    <string name="add">add</string>
+    <string name="start_service">Start/Stop Service</string>
+    <string name="call_rest">Call Rest</string>
+    <string name="display_stl">Display STL</string>
+    <string name="select_bus_line">Please select bus line:</string>
+    <string name="bus_line_list">list of bus lines</string>
+    <string name="android_tutorial">Android Tutorial</string>
+    
+    <string name="chk_ios">IPhone</string>
+    <string name="chk_android">Android</string>
+    <string name="chk_windows">Windows Mobile</string>
+    <string name="btn_display">Display</string>
+    <string name="radio_male">Male</string>
+    <string name="radio_female">Female</string>
+    <string name="opengl">OpenGL</string>
+    <string name="test">Test</string>
+    <string name="canvas">Canvas</string>
+    <string name="share">Share</string>
+    <string name="application_info">App Info</string>
+    <string name="set_password">Password</string>
+    <string name="username">"Username: "</string>
+    <string name="password">"Password: "</string>
+    <string name="update_password">Update Password</string>
+    <string name="proxy">Proxy: </string>
+    <string name="port">Port: </string>
+    <string name="use_proxy">Use Proxy</string>
+    <string name="use_debug">true</string>
+    <string name="show_route">Voir autobus en direct</string>
+    <string name="refresh">Refresh</string>
+    <string name="start_refresh">Start Refresh</string>
+    <string name="stop_refresh">Stop Refresh</string>
+    <string name="config_proxy">Configuration Proxy</string>
+    <string name="horaires_direct">Horaires en direct</string>
+    <string name="horaires_cedule"><Data><![CDATA[ <b>Horaire Cédulé</b><br/>STL Mobile ]]> </Data></string>
+    <string name="proxy_settings">Config Proxy</string>
+    <string name="contact_stl">Contacter la STL</string>
+    <string name="listOfMessages">Messages de la STL</string>
+    <string name="opus">Site Carte OPUS</string>
+
+</resources>

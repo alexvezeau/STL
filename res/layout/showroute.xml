@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+    <Button
+        android:id="@+id/btnStartRefreshMap"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/start_refresh" />
+
+    <Button
+        android:id="@+id/btnStopRefreshMap"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/stop_refresh" 
+        />
+    <TextView 
+        android:id="@+id/tvLastUpdated"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        />
+        
+    </GridLayout>
+
+
+
+    <com.google.android.maps.MapView
+        android:id="@+id/routeMap"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:apiKey="0qSJrr1zbXcgC749DSmm9xzKVny1ZjYzpNYEzGA"
+        android:clickable="true" />
+
+</LinearLayout>

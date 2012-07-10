@@ -1,0 +1,437 @@
+<body copyright="All data copyright Societe de transport de Laval 2012.">
+<route tag="all">
+<message id="11576" creator="france.gingras" startBoundary="1335888600000" startBoundaryStr="Tue, May 01 12:10:00 EDT 2012" endBoundary="1338447600000" endBoundaryStr="Thu, May 31 03:00:00 EDT 2012" sendToBuses="true">
+<text>
+Après 4 ans votre carte OPUS expire! Est-il temps de la remplacer? Vérifiez sur carteopus.info
+</text>
+<textSecondaryLanguage>
+After 4 years your OPUS card expires! Is it time to replace it? Check carteopus.info
+</textSecondaryLanguage>
+</message>
+</route>
+<route tag="20O">
+<message id="11318" creator="france.gingras" sendToBuses="false">
+<routeConfiguredForMessage tag="20O"/>
+<routeConfiguredForMessage tag="20E"/>
+<text>
+Détour entre des Iles/du Tremblay et des Iles/des Cageux
+</text>
+<textSecondaryLanguage>
+Detour between des Iles/du Tremblay and des Iles/des Cageux
+</textSecondaryLanguage>
+</message>
+</route>
+<route tag="20E">
+<message id="11318" creator="france.gingras" sendToBuses="false">
+<routeConfiguredForMessage tag="20O"/>
+<routeConfiguredForMessage tag="20E"/>
+<text>
+Détour entre des Iles/du Tremblay et des Iles/des Cageux
+</text>
+<textSecondaryLanguage>
+Detour between des Iles/du Tremblay and des Iles/des Cageux
+</textSecondaryLanguage>
+</message>
+</route>
+<route tag="151N">
+<message id="11548" creator="michel.lavoie" sendToBuses="false">
+<routeConfiguredForMessage tag="151N">
+<stop tag="41895" title="Laurentien / Gouin Ouest [41895]"/>
+</routeConfiguredForMessage>
+<routeConfiguredForMessage tag="144O">
+<stop tag="41895" title="Laurentien / Gouin Ouest [41895]"/>
+</routeConfiguredForMessage>
+<routeConfiguredForMessage tag="902N">
+<stop tag="41895" title="Laurentien / Gouin Ouest [41895]"/>
+</routeConfiguredForMessage>
+<text>
+Détour - Arrêt Laurentien/Gouin non desservi - arrêt suggéré Lachapelle/Gouin
+</text>
+<textSecondaryLanguage>
+Detour - No service at Laurentien/Gouin stop - Nearest stop Lachapelle/Gouin
+</textSecondaryLanguage>
+</message>
+</route>
+<route tag="2O">
+<message id="11650" creator="michel.lavoie" sendToBuses="false">
+<routeConfiguredForMessage tag="2O">
+<stop tag="41842" title="Des Laurentides / Lévesque [41842]"/>
+<stop tag="41337" title="De La Concorde / De L'étoile [41337]"/>
+<stop tag="41340" title="De La Concorde / Des Laurentides [41340]"/>
+<stop tag="41865" title="Des Laurentides / Grenon [41865]"/>
+<stop tag="41887" title="Des Laurentides / Tourangeau [41887]"/>
+<stop tag="CP47002" title="Métro Cartier Quai:2 [47002]"/>
+<stop tag="CP40002" title="Terminus Henri-Bourassa Quai:6 [40002]"/>
+<stop tag="41796" title="Des Laurentides / Meunier [41796]"/>
+<stop tag="42794" title="Saint-Hubert / De Quimper [42794]"/>
+<stop tag="41798" title="Des Laurentides / Proulx [41798]"/>
+</routeConfiguredForMessage>
+<routeConfiguredForMessage tag="42O">
+<stop tag="42410" title="Mirelle / Tristan [42410]"/>
+<stop tag="42460" title="Montée Du Moulin / Chartrand [42460]"/>
+<stop tag="CP42113" title="Lévesque / Place J.-E.-Blanchard [42113]"/>
+<stop tag="42177" title="Marius-Barbeau / Mirelle [42177]"/>
+<stop tag="42183" title="Marius-Barbeau / Roxane [42183]"/>
+<stop tag="42111" title="Lévesque / De Saint-Césaire [42111]"/>
+<stop tag="42445" title="Monty / Gravel [42445]"/>
+<stop tag="41394" title="De La Concorde / Lévesque [41394]"/>
+<stop tag="45059" title="Montée Du Moulin / La Périère [45059]"/>
+<stop tag="42139" title="Lévesque / Des Cépages [42139]"/>
+<stop tag="CP41272" title="Chartrand / Déry [41272]"/>
+<stop tag="41987" title="Lévesque / Des Pinsons [41987]"/>
+<stop tag="42013" title="Lévesque / Stella [42013]"/>
+<stop tag="42450" title="Galeries Du Moulin [42450]"/>
+<stop tag="42449" title="Montée Du Moulin / Marius-Barbeau [42449]"/>
+<stop tag="42102" title="Lévesque / Suzanne [42102]"/>
+<stop tag="41358" title="De La Concorde / J.-J.-Joubert [41358]"/>
+<stop tag="41354" title="De La Concorde / Des Alouettes [41354]"/>
+<stop tag="42106" title="Lévesque / Champagnat [42106]"/>
+<stop tag="42182" title="Marius-Barbeau / Mélisande [42182]"/>
+<stop tag="41362" title="De La Concorde / Autoroute 19 [41362]"/>
+<stop tag="42128" title="Lévesque / Legris [42128]"/>
+<stop tag="41366" title="De La Concorde / De L'assomption [41366]"/>
+<stop tag="42120" title="Lévesque / Face Au 6099 [42120]"/>
+<stop tag="41376" title="De La Concorde / D'auteuil [41376]"/>
+<stop tag="42009" title="Lévesque / De L'harmonie [42009]"/>
+<stop tag="42446" title="Monty / Lévesque [42446]"/>
+<stop tag="41349" title="De La Concorde / De La Normandie [41349]"/>
+<stop tag="42124" title="Lévesque / De Limoges [42124]"/>
+<stop tag="42000" title="Lévesque / Du Cresson [42000]"/>
+<stop tag="CP41374" title="Centre D'achat Duvernay [41374]"/>
+<stop tag="41345" title="De La Concorde / Jubinville [41345]"/>
+<stop tag="41381" title="De La Concorde / Beaugrand [41381]"/>
+<stop tag="42004" title="Lévesque / Des Noisetiers [42004]"/>
+<stop tag="42413" title="Mirelle / Lévesque [42413]"/>
+<stop tag="45062" title="Montée Du Moulin / Marius-Barbeau [45062]"/>
+<stop tag="41385" title="De La Concorde / Saint-Sylvain [41385]"/>
+<stop tag="42133" title="Lévesque / Face Au 6647 [42133]"/>
+<stop tag="41371" title="De La Concorde / Face Au 2900 [41371]"/>
+<stop tag="42117" title="Lévesque / Face Au 5699 [42117]"/>
+<stop tag="42417" title="Mirelle / Adrien [42417]"/>
+<stop tag="42137" title="Lévesque / Saint-Jean [42137]"/>
+<stop tag="CP41993" title="Lévesque / Des Hêtres [41993]"/>
+<stop tag="42456" title="Montée Du Moulin / Romain [42456]"/>
+<stop tag="42175" title="Mirelle / Chimène [42175]"/>
+<stop tag="42185" title="Marius-Barbeau / Lambert [42185]"/>
+<stop tag="CP41340" title="De La Concorde / Des Laurentides [41340]"/>
+<stop tag="41273" title="Chartrand / Monty [41273]"/>
+<stop tag="45061" title="Montée Du Moulin / La Périère [45061]"/>
+<stop tag="42104" title="Lévesque / Face Au 4600 [42104]"/>
+<stop tag="41389" title="De La Concorde / Rose-De-Lima [41389]"/>
+<stop tag="42453" title="Montée Du Moulin / De Léry [42453]"/>
+<stop tag="41989" title="Lévesque / Face Au 7327 [41989]"/>
+<stop tag="41352" title="De La Concorde / De La Lorraine [41352]"/>
+<stop tag="42011" title="Lévesque / Aline [42011]"/>
+<stop tag="CP41392" title="De La Concorde / Vanier [41392]"/>
+<stop tag="41356" title="De La Concorde / Notre-Dame-De-Fatima [41356]"/>
+<stop tag="42419" title="Mirelle / Romain [42419]"/>
+<stop tag="41995" title="Lévesque / Des Hirondelles [41995]"/>
+<stop tag="42007" title="Lévesque / Angèle [42007]"/>
+<stop tag="41991" title="Lévesque / Des Pelicans [41991]"/>
+<stop tag="CP42415" title="Mirelle / Chartrand [42415]"/>
+<stop tag="42126" title="Lévesque / Face Au 6321 [42126]"/>
+<stop tag="41368" title="De La Concorde / Champlain [41368]"/>
+<stop tag="42448" title="Montée Du Moulin / Lessard [42448]"/>
+<stop tag="41378" title="De La Concorde / Joly [41378]"/>
+<stop tag="42122" title="Lévesque / Montée Masson [42122]"/>
+<stop tag="41364" title="De La Concorde / De Grand-Pré [41364]"/>
+<stop tag="42458" title="Montée Du Moulin / De L'église [42458]"/>
+<stop tag="41337" title="De La Concorde / De L'étoile [41337]"/>
+<stop tag="41347" title="De La Concorde / Alexandre [41347]"/>
+<stop tag="41383" title="De La Concorde / Lesage [41383]"/>
+<stop tag="41343" title="De La Concorde / Saint-Hubert [41343]"/>
+<stop tag="42135" title="Lévesque / Roger-Lortie [42135]"/>
+<stop tag="41998" title="Lévesque / Des Sapins [41998]"/>
+<stop tag="42131" title="Lévesque / Malépart [42131]"/>
+<stop tag="42115" title="Lévesque / Montée Saint-François [42115]"/>
+<stop tag="41387" title="De La Concorde / Du Parc [41387]"/>
+<stop tag="42109" title="Lévesque / Desnoyers [42109]"/>
+<stop tag="42002" title="Lévesque / De La Plage [42002]"/>
+</routeConfiguredForMessage>
+<text>Détour sur de la Concorde entre Bazin et 6 ave.</text>
+<textSecondaryLanguage>Detour on de la Concorde between Bazin and 6 ave.</textSecondaryLanguage>
+</message>
+</route>
+<route tag="56O">
+<message id="11577" creator="maude.tremblaylafond" sendToBuses="false">
+<routeConfiguredForMessage tag="56O">
+<stop tag="CP42840" title="Saint-Martin / Mcnamara [42840]"/>
+<stop tag="42167" title="Mcnamara / Maple [42167]"/>
+<stop tag="CP48056" title="Métro Montmorency Quai:7 [48056]"/>
+<stop tag="41028" title="Du Souvenir / De L'avenir [41028]"/>
+<stop tag="42163" title="Mcnamara / Louise [42163]"/>
+<stop tag="41915" title="Laval / Du Trait-Carré [41915]"/>
+<stop tag="43149" title="Du Souvenir / Face Au Cegep Montmorency [43149]"/>
+<stop tag="42165" title="Mcnamara / Pine [42165]"/>
+<stop tag="41916" title="Laval / Jolivet [41916]"/>
+</routeConfiguredForMessage>
+<routeConfiguredForMessage tag="56E">
+<stop tag="42874" title="Saint-Martin / Face Au 5004 [42874]"/>
+<stop tag="46139" title="Fafard / Fauteux [46139]"/>
+<stop tag="42649" title="Principale / Montée Champagne [42649]"/>
+<stop tag="41931" title="Le Carrefour / Le Corbusier [41931]"/>
+<stop tag="42878" title="Saint-Martin / Face Au 4952 [42878]"/>
+<stop tag="43925" title="Le Carrefour / Face Au Land Rover [43925]"/>
+<stop tag="41271" title="Montée Champagne / Réjean [41271]"/>
+<stop tag="41216" title="Carole / Muguet [41216]"/>
+<stop tag="46439" title="Principale / Face Au 180 [46439]"/>
+<stop tag="46473" title="Le Carrefour / Chomedey [46473]"/>
+<stop tag="41617" title="Fafard / Légaré [41617]"/>
+<stop tag="41781" title="Jessop / Louise [41781]"/>
+<stop tag="CP42430" title="Montgolfier / Saint-Martin [42430]"/>
+<stop tag="42152" title="Louise / De Rouen [42152]"/>
+<stop tag="42801" title="Saint-Martin / Dutrisac [42801]"/>
+<stop tag="46144" title="Tessier / Dumouchel [46144]"/>
+<stop tag="42646" title="Principale / Francis [42646]"/>
+<stop tag="CP42149" title="Louis-Payette / Curé-Labelle [42149]"/>
+<stop tag="42147" title="Louis-Payette / Barbe [42147]"/>
+<stop tag="42642" title="Principale / Duprat [42642]"/>
+<stop tag="CP44156" title="Terminus Le Carrefour Quai:11 [44156]"/>
+<stop tag="46145" title="Tessier / Bach [46145]"/>
+<stop tag="43928" title="Le Carrefour / Daniel-Johnson [43928]"/>
+<stop tag="46140" title="Fafard / Louis-Payette [46140]"/>
+<stop tag="41934" title="Le Carrefour / Beauregard [41934]"/>
+<stop tag="42675" title="Principale / Pierre [42675]"/>
+<stop tag="42883" title="Saint-Martin / 100e Avenue [42883]"/>
+<stop tag="42647" title="Principale / Maurice [42647]"/>
+<stop tag="46141" title="Fafard / Gendreau [46141]"/>
+<stop tag="46470" title="Le Carrefour / Face Au 3030 [46470]"/>
+<stop tag="46407" title="Principale / Marjolaine [46407]"/>
+<stop tag="42848" title="Saint-Martin / Face Au 5184 [42848]"/>
+<stop tag="42823" title="Saint-Martin / Montée Champagne [42823]"/>
+<stop tag="43296" title="Le Carrefour / Face Au 3090 [43296]"/>
+<stop tag="43436" title="Principale / Stéphane [43436]"/>
+<stop tag="42154" title="Louise / Goya [42154]"/>
+<stop tag="42803" title="Saint-Martin / Fafard [42803]"/>
+<stop tag="42827" title="Saint-Martin / Le Boutillier [42827]"/>
+<stop tag="42164" title="Mcnamara / Pine [42164]"/>
+<stop tag="43927" title="Le Carrefour / Face Au 3350 [43927]"/>
+<stop tag="46142" title="Fafard / Favreau [46142]"/>
+<stop tag="46394" title="Favreau / Place Favreau [46394]"/>
+<stop tag="41936" title="Le Carrefour / Albert-Murphy [41936]"/>
+<stop tag="42644" title="Principale / Laurin [42644]"/>
+<stop tag="CP41218" title="Carole / Des Tulipes [41218]"/>
+<stop tag="42677" title="Principale / Malraux [42677]"/>
+<stop tag="42640" title="Principale / Lise [42640]"/>
+<stop tag="42673" title="Principale / Bigras [42673]"/>
+<stop tag="46143" title="Favreau / Face Au 1994 [46143]"/>
+</routeConfiguredForMessage>
+<text>
+Pas de service entre Mcnamara/Pine et Louise/Fred Barry
+</text>
+<textSecondaryLanguage>
+No service between Mcnamara/Pine and Louise/Fred Barry
+</textSecondaryLanguage>
+</message>
+</route>
+<route tag="42O">
+<message id="11650" creator="michel.lavoie" sendToBuses="false">
+<routeConfiguredForMessage tag="2O">
+<stop tag="41842" title="Des Laurentides / Lévesque [41842]"/>
+<stop tag="41337" title="De La Concorde / De L'étoile [41337]"/>
+<stop tag="41340" title="De La Concorde / Des Laurentides [41340]"/>
+<stop tag="41865" title="Des Laurentides / Grenon [41865]"/>
+<stop tag="41887" title="Des Laurentides / Tourangeau [41887]"/>
+<stop tag="CP47002" title="Métro Cartier Quai:2 [47002]"/>
+<stop tag="CP40002" title="Terminus Henri-Bourassa Quai:6 [40002]"/>
+<stop tag="41796" title="Des Laurentides / Meunier [41796]"/>
+<stop tag="42794" title="Saint-Hubert / De Quimper [42794]"/>
+<stop tag="41798" title="Des Laurentides / Proulx [41798]"/>
+</routeConfiguredForMessage>
+<routeConfiguredForMessage tag="42O">
+<stop tag="42410" title="Mirelle / Tristan [42410]"/>
+<stop tag="42460" title="Montée Du Moulin / Chartrand [42460]"/>
+<stop tag="CP42113" title="Lévesque / Place J.-E.-Blanchard [42113]"/>
+<stop tag="42177" title="Marius-Barbeau / Mirelle [42177]"/>
+<stop tag="42183" title="Marius-Barbeau / Roxane [42183]"/>
+<stop tag="42111" title="Lévesque / De Saint-Césaire [42111]"/>
+<stop tag="42445" title="Monty / Gravel [42445]"/>
+<stop tag="41394" title="De La Concorde / Lévesque [41394]"/>
+<stop tag="45059" title="Montée Du Moulin / La Périère [45059]"/>
+<stop tag="42139" title="Lévesque / Des Cépages [42139]"/>
+<stop tag="CP41272" title="Chartrand / Déry [41272]"/>
+<stop tag="41987" title="Lévesque / Des Pinsons [41987]"/>
+<stop tag="42013" title="Lévesque / Stella [42013]"/>
+<stop tag="42450" title="Galeries Du Moulin [42450]"/>
+<stop tag="42449" title="Montée Du Moulin / Marius-Barbeau [42449]"/>
+<stop tag="42102" title="Lévesque / Suzanne [42102]"/>
+<stop tag="41358" title="De La Concorde / J.-J.-Joubert [41358]"/>
+<stop tag="41354" title="De La Concorde / Des Alouettes [41354]"/>
+<stop tag="42106" title="Lévesque / Champagnat [42106]"/>
+<stop tag="42182" title="Marius-Barbeau / Mélisande [42182]"/>
+<stop tag="41362" title="De La Concorde / Autoroute 19 [41362]"/>
+<stop tag="42128" title="Lévesque / Legris [42128]"/>
+<stop tag="41366" title="De La Concorde / De L'assomption [41366]"/>
+<stop tag="42120" title="Lévesque / Face Au 6099 [42120]"/>
+<stop tag="41376" title="De La Concorde / D'auteuil [41376]"/>
+<stop tag="42009" title="Lévesque / De L'harmonie [42009]"/>
+<stop tag="42446" title="Monty / Lévesque [42446]"/>
+<stop tag="41349" title="De La Concorde / De La Normandie [41349]"/>
+<stop tag="42124" title="Lévesque / De Limoges [42124]"/>
+<stop tag="42000" title="Lévesque / Du Cresson [42000]"/>
+<stop tag="CP41374" title="Centre D'achat Duvernay [41374]"/>
+<stop tag="41345" title="De La Concorde / Jubinville [41345]"/>
+<stop tag="41381" title="De La Concorde / Beaugrand [41381]"/>
+<stop tag="42004" title="Lévesque / Des Noisetiers [42004]"/>
+<stop tag="42413" title="Mirelle / Lévesque [42413]"/>
+<stop tag="45062" title="Montée Du Moulin / Marius-Barbeau [45062]"/>
+<stop tag="41385" title="De La Concorde / Saint-Sylvain [41385]"/>
+<stop tag="42133" title="Lévesque / Face Au 6647 [42133]"/>
+<stop tag="41371" title="De La Concorde / Face Au 2900 [41371]"/>
+<stop tag="42117" title="Lévesque / Face Au 5699 [42117]"/>
+<stop tag="42417" title="Mirelle / Adrien [42417]"/>
+<stop tag="42137" title="Lévesque / Saint-Jean [42137]"/>
+<stop tag="CP41993" title="Lévesque / Des Hêtres [41993]"/>
+<stop tag="42456" title="Montée Du Moulin / Romain [42456]"/>
+<stop tag="42175" title="Mirelle / Chimène [42175]"/>
+<stop tag="42185" title="Marius-Barbeau / Lambert [42185]"/>
+<stop tag="CP41340" title="De La Concorde / Des Laurentides [41340]"/>
+<stop tag="41273" title="Chartrand / Monty [41273]"/>
+<stop tag="45061" title="Montée Du Moulin / La Périère [45061]"/>
+<stop tag="42104" title="Lévesque / Face Au 4600 [42104]"/>
+<stop tag="41389" title="De La Concorde / Rose-De-Lima [41389]"/>
+<stop tag="42453" title="Montée Du Moulin / De Léry [42453]"/>
+<stop tag="41989" title="Lévesque / Face Au 7327 [41989]"/>
+<stop tag="41352" title="De La Concorde / De La Lorraine [41352]"/>
+<stop tag="42011" title="Lévesque / Aline [42011]"/>
+<stop tag="CP41392" title="De La Concorde / Vanier [41392]"/>
+<stop tag="41356" title="De La Concorde / Notre-Dame-De-Fatima [41356]"/>
+<stop tag="42419" title="Mirelle / Romain [42419]"/>
+<stop tag="41995" title="Lévesque / Des Hirondelles [41995]"/>
+<stop tag="42007" title="Lévesque / Angèle [42007]"/>
+<stop tag="41991" title="Lévesque / Des Pelicans [41991]"/>
+<stop tag="CP42415" title="Mirelle / Chartrand [42415]"/>
+<stop tag="42126" title="Lévesque / Face Au 6321 [42126]"/>
+<stop tag="41368" title="De La Concorde / Champlain [41368]"/>
+<stop tag="42448" title="Montée Du Moulin / Lessard [42448]"/>
+<stop tag="41378" title="De La Concorde / Joly [41378]"/>
+<stop tag="42122" title="Lévesque / Montée Masson [42122]"/>
+<stop tag="41364" title="De La Concorde / De Grand-Pré [41364]"/>
+<stop tag="42458" title="Montée Du Moulin / De L'église [42458]"/>
+<stop tag="41337" title="De La Concorde / De L'étoile [41337]"/>
+<stop tag="41347" title="De La Concorde / Alexandre [41347]"/>
+<stop tag="41383" title="De La Concorde / Lesage [41383]"/>
+<stop tag="41343" title="De La Concorde / Saint-Hubert [41343]"/>
+<stop tag="42135" title="Lévesque / Roger-Lortie [42135]"/>
+<stop tag="41998" title="Lévesque / Des Sapins [41998]"/>
+<stop tag="42131" title="Lévesque / Malépart [42131]"/>
+<stop tag="42115" title="Lévesque / Montée Saint-François [42115]"/>
+<stop tag="41387" title="De La Concorde / Du Parc [41387]"/>
+<stop tag="42109" title="Lévesque / Desnoyers [42109]"/>
+<stop tag="42002" title="Lévesque / De La Plage [42002]"/>
+</routeConfiguredForMessage>
+<text>Détour sur de la Concorde entre Bazin et 6 ave.</text>
+<textSecondaryLanguage>Detour on de la Concorde between Bazin and 6 ave.</textSecondaryLanguage>
+</message>
+</route>
+<route tag="144O">
+<message id="11548" creator="michel.lavoie" sendToBuses="false">
+<routeConfiguredForMessage tag="151N">
+<stop tag="41895" title="Laurentien / Gouin Ouest [41895]"/>
+</routeConfiguredForMessage>
+<routeConfiguredForMessage tag="144O">
+<stop tag="41895" title="Laurentien / Gouin Ouest [41895]"/>
+</routeConfiguredForMessage>
+<routeConfiguredForMessage tag="902N">
+<stop tag="41895" title="Laurentien / Gouin Ouest [41895]"/>
+</routeConfiguredForMessage>
+<text>
+Détour - Arrêt Laurentien/Gouin non desservi - arrêt suggéré Lachapelle/Gouin
+</text>
+<textSecondaryLanguage>
+Detour - No service at Laurentien/Gouin stop - Nearest stop Lachapelle/Gouin
+</textSecondaryLanguage>
+</message>
+</route>
+<route tag="902N">
+<message id="11548" creator="michel.lavoie" sendToBuses="false">
+<routeConfiguredForMessage tag="151N">
+<stop tag="41895" title="Laurentien / Gouin Ouest [41895]"/>
+</routeConfiguredForMessage>
+<routeConfiguredForMessage tag="144O">
+<stop tag="41895" title="Laurentien / Gouin Ouest [41895]"/>
+</routeConfiguredForMessage>
+<routeConfiguredForMessage tag="902N">
+<stop tag="41895" title="Laurentien / Gouin Ouest [41895]"/>
+</routeConfiguredForMessage>
+<text>
+Détour - Arrêt Laurentien/Gouin non desservi - arrêt suggéré Lachapelle/Gouin
+</text>
+<textSecondaryLanguage>
+Detour - No service at Laurentien/Gouin stop - Nearest stop Lachapelle/Gouin
+</textSecondaryLanguage>
+</message>
+</route>
+<route tag="56E">
+<message id="11577" creator="maude.tremblaylafond" sendToBuses="false">
+<routeConfiguredForMessage tag="56O">
+<stop tag="CP42840" title="Saint-Martin / Mcnamara [42840]"/>
+<stop tag="42167" title="Mcnamara / Maple [42167]"/>
+<stop tag="CP48056" title="Métro Montmorency Quai:7 [48056]"/>
+<stop tag="41028" title="Du Souvenir / De L'avenir [41028]"/>
+<stop tag="42163" title="Mcnamara / Louise [42163]"/>
+<stop tag="41915" title="Laval / Du Trait-Carré [41915]"/>
+<stop tag="43149" title="Du Souvenir / Face Au Cegep Montmorency [43149]"/>
+<stop tag="42165" title="Mcnamara / Pine [42165]"/>
+<stop tag="41916" title="Laval / Jolivet [41916]"/>
+</routeConfiguredForMessage>
+<routeConfiguredForMessage tag="56E">
+<stop tag="42874" title="Saint-Martin / Face Au 5004 [42874]"/>
+<stop tag="46139" title="Fafard / Fauteux [46139]"/>
+<stop tag="42649" title="Principale / Montée Champagne [42649]"/>
+<stop tag="41931" title="Le Carrefour / Le Corbusier [41931]"/>
+<stop tag="42878" title="Saint-Martin / Face Au 4952 [42878]"/>
+<stop tag="43925" title="Le Carrefour / Face Au Land Rover [43925]"/>
+<stop tag="41271" title="Montée Champagne / Réjean [41271]"/>
+<stop tag="41216" title="Carole / Muguet [41216]"/>
+<stop tag="46439" title="Principale / Face Au 180 [46439]"/>
+<stop tag="46473" title="Le Carrefour / Chomedey [46473]"/>
+<stop tag="41617" title="Fafard / Légaré [41617]"/>
+<stop tag="41781" title="Jessop / Louise [41781]"/>
+<stop tag="CP42430" title="Montgolfier / Saint-Martin [42430]"/>
+<stop tag="42152" title="Louise / De Rouen [42152]"/>
+<stop tag="42801" title="Saint-Martin / Dutrisac [42801]"/>
+<stop tag="46144" title="Tessier / Dumouchel [46144]"/>
+<stop tag="42646" title="Principale / Francis [42646]"/>
+<stop tag="CP42149" title="Louis-Payette / Curé-Labelle [42149]"/>
+<stop tag="42147" title="Louis-Payette / Barbe [42147]"/>
+<stop tag="42642" title="Principale / Duprat [42642]"/>
+<stop tag="CP44156" title="Terminus Le Carrefour Quai:11 [44156]"/>
+<stop tag="46145" title="Tessier / Bach [46145]"/>
+<stop tag="43928" title="Le Carrefour / Daniel-Johnson [43928]"/>
+<stop tag="46140" title="Fafard / Louis-Payette [46140]"/>
+<stop tag="41934" title="Le Carrefour / Beauregard [41934]"/>
+<stop tag="42675" title="Principale / Pierre [42675]"/>
+<stop tag="42883" title="Saint-Martin / 100e Avenue [42883]"/>
+<stop tag="42647" title="Principale / Maurice [42647]"/>
+<stop tag="46141" title="Fafard / Gendreau [46141]"/>
+<stop tag="46470" title="Le Carrefour / Face Au 3030 [46470]"/>
+<stop tag="46407" title="Principale / Marjolaine [46407]"/>
+<stop tag="42848" title="Saint-Martin / Face Au 5184 [42848]"/>
+<stop tag="42823" title="Saint-Martin / Montée Champagne [42823]"/>
+<stop tag="43296" title="Le Carrefour / Face Au 3090 [43296]"/>
+<stop tag="43436" title="Principale / Stéphane [43436]"/>
+<stop tag="42154" title="Louise / Goya [42154]"/>
+<stop tag="42803" title="Saint-Martin / Fafard [42803]"/>
+<stop tag="42827" title="Saint-Martin / Le Boutillier [42827]"/>
+<stop tag="42164" title="Mcnamara / Pine [42164]"/>
+<stop tag="43927" title="Le Carrefour / Face Au 3350 [43927]"/>
+<stop tag="46142" title="Fafard / Favreau [46142]"/>
+<stop tag="46394" title="Favreau / Place Favreau [46394]"/>
+<stop tag="41936" title="Le Carrefour / Albert-Murphy [41936]"/>
+<stop tag="42644" title="Principale / Laurin [42644]"/>
+<stop tag="CP41218" title="Carole / Des Tulipes [41218]"/>
+<stop tag="42677" title="Principale / Malraux [42677]"/>
+<stop tag="42640" title="Principale / Lise [42640]"/>
+<stop tag="42673" title="Principale / Bigras [42673]"/>
+<stop tag="46143" title="Favreau / Face Au 1994 [46143]"/>
+</routeConfiguredForMessage>
+<text>
+Pas de service entre Mcnamara/Pine et Louise/Fred Barry
+</text>
+<textSecondaryLanguage>
+No service between Mcnamara/Pine and Louise/Fred Barry
+</textSecondaryLanguage>
+</message>
+</route>
+</body>
