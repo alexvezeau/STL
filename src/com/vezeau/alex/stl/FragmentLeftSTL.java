@@ -2,15 +2,18 @@ package com.vezeau.alex.stl;
 
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
+import java.io.InputStream;
 import java.io.StringReader;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.ExecutionException;
+import java.util.zip.GZIPInputStream;
 
 import javax.xml.parsers.ParserConfigurationException;
 import javax.xml.parsers.SAXParser;
 import javax.xml.parsers.SAXParserFactory;
 
+import org.apache.http.Header;
 import org.apache.http.HttpResponse;
 import org.apache.http.HttpStatus;
 import org.apache.http.StatusLine;
@@ -167,8 +170,24 @@ public class FragmentLeftSTL extends Fragment {
 
 				StatusLine statusLine = response.getStatusLine();
 				if (statusLine.getStatusCode() == HttpStatus.SC_OK) {
+					
 					ByteArrayOutputStream out = new ByteArrayOutputStream();
-					response.getEntity().writeTo(out);
+					
+					InputStream instream = response.getEntity().getContent();
+					Header contentEncoding = response.getFirstHeader("Content-Encoding");
+					if (contentEncoding != null && contentEncoding.getValue().equalsIgnoreCase("gzip")) {
+					    instream = new GZIPInputStream(instream);
+					}
+	
+					byte[] buff = new byte[8000];
+
+			        int bytesRead = 0;
+			        
+			        while((bytesRead = instream.read(buff)) != -1) {
+			             out.write(buff, 0, bytesRead);
+			          }
+										
+					//response.getEntity().writeTo(out);
 					out.close();
 					String responseString = out.toString();
 
